@@ -14,6 +14,6 @@ This is a small tiny bit of Java code that allows the user to enter and display 
 
 Download the code.
 
-Open the code in IntelliJ IDEA CE or Elcipse.
+Open the code in IntelliJ IDEA CE or Eclipse.
 
 Run the code in console.
