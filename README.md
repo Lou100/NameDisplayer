@@ -4,7 +4,7 @@
 
 Make sure you have Java JDK Tools installed. 
 
-Make sure you have IntelliJ IDEA CE or Elcipse installed.
+Make sure you have IntelliJ IDEA CE or Eclipse installed.
 
 # Introduction
 
