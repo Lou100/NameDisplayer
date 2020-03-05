@@ -16,4 +16,4 @@ Download the code.
 
 Open the code in preferably (IntelliJ IDEA CE) or Eclipse.
 
-Run the code in console.
+Run the code in the console.
